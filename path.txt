@@ -1,0 +1,26 @@
+# Frontend
+    HTML
+    CSS
+    Javascript
+    Tailwind CSS
+    Bootstrap
+
+# Backend
+    Node JS
+    Express JS
+    Authentication
+    Auhtorization
+    Error Handling
+    MVC Architecture
+
+
+
+# Database
+    MongoDB
+    MySql
+
+
+# Deployment
+    AWS
+    Azure
+    Google Cloud Platform
