@@ -24,3 +24,11 @@
     AWS
     Azure
     Google Cloud Platform
+
+# Industry Standards
+    Docker and Containerisation
+    kubernetes
+    ci cd pipelines
+    websockets and webRTC
+    Unit Testing using JEST
+    AWS Construsts for Deployment
