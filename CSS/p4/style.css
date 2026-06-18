@@ -1,14 +1,12 @@
-/* * {
-    div{
+
     p {
         color: white;
         background-color: blue;
     }
- }
-} */
 
 
-    p.firstchild {
+
+div > p:first-child {
         background-color: yellow;
         color: red;
     }
