@@ -1,0 +1,14 @@
+/* * {
+    div{
+    p {
+        color: white;
+        background-color: blue;
+    }
+ }
+} */
+
+
+    p.firstchild {
+        background-color: yellow;
+        color: red;
+    }
