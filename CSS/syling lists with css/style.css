@@ -1,0 +1,18 @@
+nav{
+    ul li{
+        list-style: none;
+        background-color: aqua;
+        list-style-position: inside;
+        border: 2px solid red;
+        display: inline-block;
+
+    }
+}
+
+ul li{
+    list-style: square;
+}
+
+ol li{
+    list-style-type: " 😊";
+}
