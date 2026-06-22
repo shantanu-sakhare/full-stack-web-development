@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ul{
+    display: flex;
+
+}
+
+.ul li{
+    list-style: none;
+    padding: 24px;
+}
+
+.nav{
+    background-color: var(--sc);
+}
+
+.container{
+    background-color: var(--cc);
+}
+
+:root{
+    --sc:red;
+    --cc: blue;
+}
